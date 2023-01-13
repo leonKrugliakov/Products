@@ -1,0 +1,35 @@
+92175
+Hammer
+Mack Trucks
+9.95
+132
+
+10085
+Diet soda
+PepsiCo Inc.
+0.99
+1000
+
+62317
+Tomato sauce
+Kraft Heinz Co.
+1.29
+5001
+
+63197
+Breakfast cereal
+Kellogg Co.
+2.59
+199
+
+10092
+Unsweetened tea
+Coca-Cola Co.
+0.99
+1025
+
+72351
+Chicken breast
+Perdue Farms Inc
+3.49
+25
